@@ -43,6 +43,10 @@ export default {
       darkBlue: "hsl(249, 10%, 26%)",
       grayishBlue: "hsl(246, 25%, 77%)",
     },
+    backgroundImage: {
+      mobile: "url('../public/bg-intro-mobile.png')",
+      desktop: "url('../public/bg-intro-desktop.png')",
+    },
   },
   plugins: [],
 }
