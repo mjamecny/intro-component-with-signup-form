@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-Rd0DFOgJBb)
 - Live Site URL: [Netlify](https://fm-challenge-intro-comp-with-signup.netlify.app)
 
 ## My process
